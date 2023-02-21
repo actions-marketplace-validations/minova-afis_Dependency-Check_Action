@@ -1,6 +1,6 @@
-name: 'Dependency Check'
+name: 'Dependency Check by Minova'
 description: 'Github action to execute dependency check as part of a github workflow'
-Author: 'javixeneize'
+Author: 'scholz@minova.aero'
 branding:
   icon: 'shield'  
   color: 'red'
